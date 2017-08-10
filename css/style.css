@@ -1,7 +1,19 @@
+<<<<<<< HEAD
 
 .box{
   width: 450px;
 	background: rgba(0, 0, 0, 1);
+=======
+body{
+	margin: 0;
+	padding: 0;
+	background: url(y2.jpg) no-repeat;
+	background-size: cover 
+}
+.box{	
+	width: 450px;
+	background: rgba(0, 0, 0, 0.4);
+>>>>>>> 9b2f413472a3ce929b42b42e5c17c28811096e7d
 	padding: 40px;
 	text-align: center;
 	margin: auto;
@@ -28,6 +40,7 @@ height: 200px;
 .box p{
 	text-align: justify;
 }
+<<<<<<< HEAD
 ul{
 	margin: 0;
 	padding: 0;
@@ -47,3 +60,5 @@ ul{
 	color: #b9b9b9;
 
 }
+=======
+>>>>>>> 9b2f413472a3ce929b42b42e5c17c28811096e7d
